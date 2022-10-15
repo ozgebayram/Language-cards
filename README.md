@@ -1,7 +1,19 @@
 
 
 
-# Project-002: Language Cards (RP-02)
+# Language Cards
+
+
+## Check The Live Website ➡️ [Live Website](https://card-language.netlify.app/)
+
+## Visualization of the Website
+
+
+
+![image](https://user-images.githubusercontent.com/105461003/195991161-f693b8e7-6292-45b7-8046-8bd7dd82afe3.png)
+![image](https://user-images.githubusercontent.com/105461003/195991182-84ba07dc-42c3-44e8-aa6a-d130d490c650.png)
+
+
 
 ## Description
 
@@ -69,8 +81,6 @@ Build a Languages Cards App using ReactJS.
 
 - Step 5: Add project gif to your project and README.md file.
 
-## Notes
 
-- You can add additional functionalities to your app.
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+
