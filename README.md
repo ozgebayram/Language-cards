@@ -1,6 +1,5 @@
-<p>Clarusway<img src="./assets/cw.png" alt="clarusway" width="30px" height="auto" align="right" /></p>
 
-<br>
+
 
 # Project-002: Language Cards (RP-02)
 
@@ -8,16 +7,14 @@
 
 Project aims to create a Languages Cards App.
 
-## Problem Statement
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
 ```
 002-Language Cards(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md        
 SOLUTION
 ├── public
 │     └── index.html
