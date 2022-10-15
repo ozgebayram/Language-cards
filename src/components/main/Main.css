@@ -1,0 +1,20 @@
+.cardContainer{
+	
+	/* border: 1px solid rgb(20, 16, 16); */
+	width: 20rem;
+	height: 35rem;
+	background: rgb(243, 113, 27);
+	border-radius: 15px;
+	box-shadow: 17px 7px 29px 0px rgba(0, 0, 0, 0.877)
+	
+	
+}
+.dataDiv{
+	display: inline-block;
+}
+h1{
+	color:white;
+	font-weight: 400;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+}
