@@ -1,7 +1,7 @@
 
 .frontImg{
-	width: 50px;
-	height: 50px;
+	width: 55px;
+	height: 55px;
 	margin-top:0.5rem;
 	background-color:rgba(0, 0, 0, 0.0);
 	/* margin-top: 9px; */
@@ -9,8 +9,8 @@
 	
 }
 .frontImg:hover{
-transition: all .2s ease-in-out; 
-transform: scale(1.2); 
+transition: all .0s ease-in-out; 
+transform: scale(1.3); 
 /* box-shadow: 17px 7px 29px 0px rgba(0,0,0,0.39); */
 
 
@@ -18,13 +18,14 @@ transform: scale(1.2);
 }
 
 .container{
-	/* border: 1px solid rgb(124, 65, 17); */
+	/* border: 2px solid rgb(12, 12, 12); */
 	margin: 0.5rem;
 	width: 8rem;
 	height: 6rem;
 	border-radius: 10px;
 	background-color: aliceblue;
 	margin-top: 1rem;
+	
 	
 
 
@@ -49,19 +50,23 @@ h2{
 	/* box-shadow: 17px 7px 29px 0px rgba(0,0,0,0.39) */
 }
 .options{
-	margin-left: 0.2rem;
+	margin-left: 1.2rem;
 	margin-top: 1rem;
 	text-align: start;
 	width: 7.5rem;
-	height: 4rem;
-	border: 1px solid red;
+	height: 100%;
+	/* border: 1px solid rgb(17, 16, 16); */
+	
 	
 }
 
 li{
 	
 	font-size: 11px;
+	
 	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
 	
 }
+
+

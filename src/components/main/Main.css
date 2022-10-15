@@ -10,7 +10,10 @@
 	
 }
 .dataDiv{
-	display: inline-block;
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+	margin-top: 1rem;
 }
 h1{
 	color:white;

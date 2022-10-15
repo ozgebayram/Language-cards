@@ -14,14 +14,14 @@ const Card = ({name,img,options}) => {
 	
 	<div className='container' onClick={handleClick}>
 		{visible 
-		? (<div className='frontCard'>
+		? (<>
 			<img  className='frontImg' src={img} alt={name} />
 			<h2 className='frontname'>{name}</h2>
-		</div>
+		</>
 		)
 		:(
 			<div className='options'>
-				<ul >
+				<ul>
 					{options.map((item,index)=>{
 						return <li key={index}>{item}</li>;
 					})}
